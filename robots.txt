@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alnaddyfatayat3-hub.github.io/vy-clean/sitemap.xml
